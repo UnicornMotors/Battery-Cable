@@ -5,3 +5,5 @@
 
 ## Guide:
 [Battery Cable Repair Using solder style terminals](https://youtu.be/4zkatWhwua0)
+
+[The proper way to solder battery terminals](https://youtu.be/4zkatWhwua0)
